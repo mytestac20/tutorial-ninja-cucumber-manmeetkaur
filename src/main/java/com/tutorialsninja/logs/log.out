@@ -1,0 +1,27 @@
+2024-12-17 23:12:52 INFO  HomePage :36 - Click on [[ChromeDriver: chrome on windows (c86c30b35df6133094f6a7174ad1bcd0)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-12-17 23:12:277 INFO  TopMenuPage :64 - click On [[ChromeDriver: chrome on windows (c86c30b35df6133094f6a7174ad1bcd0)] -> xpath: //a[normalize-space()='Desktops']]
+2024-12-17 23:12:121 INFO  DesktopPage :76 - Click on MacBook
+2024-12-17 23:12:137 INFO  ProductPage :40 - get text[[ChromeDriver: chrome on windows (c86c30b35df6133094f6a7174ad1bcd0)] -> xpath: //div[@id = 'content']//h1]
+2024-12-17 23:12:245 INFO  ProductPage :49 - change1
+2024-12-17 23:12:341 INFO  ProductPage :57 - Click on [[ChromeDriver: chrome on windows (c86c30b35df6133094f6a7174ad1bcd0)] -> id: button-cart]
+2024-12-17 23:12:561 INFO  ProductPage :63 - text[[ChromeDriver: chrome on windows (c86c30b35df6133094f6a7174ad1bcd0)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:114 INFO  HomePage :36 - Click on [[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-12-17 23:12:425 INFO  TopMenuPage :64 - click On [[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //a[normalize-space()='Desktops']]
+2024-12-17 23:12:103 INFO  DesktopPage :76 - Click on MacBook Air
+2024-12-17 23:12:120 INFO  ProductPage :40 - get text[[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //div[@id = 'content']//h1]
+2024-12-17 23:12:224 INFO  ProductPage :49 - change1
+2024-12-17 23:12:326 INFO  ProductPage :57 - Click on [[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> id: button-cart]
+2024-12-17 23:12:593 INFO  ProductPage :63 - text[[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:978 INFO  ProductPage :72 - Click on [[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-12-17 23:12:998 INFO  CartPage :55 - Get [[ChromeDriver: chrome on windows (136656e048e763be4d05e2419c5f44d8)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-12-17 23:12:19 INFO  CartPage :65 - Get Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[2]/div[1]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/a[1]'
+2024-12-17 23:12:350 INFO  HomePage :36 - Click on [[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2024-12-17 23:12:642 INFO  TopMenuPage :64 - click On [[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //a[normalize-space()='Desktops']]
+2024-12-17 23:12:384 INFO  DesktopPage :76 - Click on Sony VAIO
+2024-12-17 23:12:427 INFO  ProductPage :40 - get text[[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //div[@id = 'content']//h1]
+2024-12-17 23:12:591 INFO  ProductPage :49 - change1
+2024-12-17 23:12:693 INFO  ProductPage :57 - Click on [[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> id: button-cart]
+2024-12-17 23:12:978 INFO  ProductPage :63 - text[[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:539 INFO  ProductPage :72 - Click on [[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //a[normalize-space()='shopping cart']]
+2024-12-17 23:12:571 INFO  CartPage :55 - Get [[ChromeDriver: chrome on windows (441fc00f22a6d1bd1bfee6784bdc0194)] -> xpath: //h1[contains(text(),'Shopping Cart')]]
+2024-12-17 23:12:635 INFO  CartPage :65 - Get Proxy element for: DefaultElementLocator 'By.xpath: //body[1]/div[2]/div[1]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/a[1]'
